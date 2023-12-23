@@ -5,7 +5,6 @@ description: The Simplest type of artificial neural networks and can only classi
 img: assets/img/1.png
 importance: 1
 category: College Projects
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
