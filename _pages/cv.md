@@ -1,7 +1,7 @@
 ---
-layout: CV
+layout: cv
 permalink: /cv/
-title: CV
+title: Minaa
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
