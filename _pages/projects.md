@@ -2,7 +2,6 @@
 layout: page
 title: My Projects
 permalink: /projects/
-description: A growing collection of my cool projects.
 nav: true
 nav_order: 2
 display_categories: [College Projects, Personal Projects]
