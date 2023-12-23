@@ -6,7 +6,7 @@ subtitle: Cairo. Egypt.
 
 profile:
   align: right
-  image: Me.jpg
+  image: Mee.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
