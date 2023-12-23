@@ -9,7 +9,7 @@ category: College Projects
 ---
 **Context**
 
-In this file, I have implemented Adaline Learning Algorithm Using MSE that can classify a stream of input data to one of a set of predefined classes and i used the penguins data in both training and testing processes
+In this Project, I have implemented Adaline Learning Algorithm Using MSE that can classify a stream of input data to one of a set of predefined classes and i used the penguins data in both training and testing processes
 
 
 **Project Link**
