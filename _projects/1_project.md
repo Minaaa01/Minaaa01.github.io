@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+description: The Simplest type of artificial neural networks and can only classify linearly separable cases with a binary target
+img: assets/img/1.jpg
 importance: 1
-category: work
+category: College Projects
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
