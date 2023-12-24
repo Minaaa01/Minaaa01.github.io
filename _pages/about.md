@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: My Portfolio
 permalink: /
 subtitle: Data Analyst
 profile:
