@@ -4,7 +4,7 @@ title: Covid 19 Data Analysis Using SQL
 description: A data Analysis project on COVID-19 Using SQL and Tableau
 img:
 redirect:
-importance: 1
+importance: 3
 category: Personal Projects
 ---
 **The data has been sourced from [Here](https://github.com/owid/covid-19-data/blob/master/public/data/README.md)**
