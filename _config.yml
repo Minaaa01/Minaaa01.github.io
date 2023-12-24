@@ -7,8 +7,6 @@ first_name: Mina
 middle_name: T.
 last_name: Daniel
 email: minatawfik49@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hello and Wellcome To My Humble Portfolio.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -64,7 +62,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: Minaaa01
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: #
+linkedin_username: # your mastodon instance+username in the format instance.tld/@username
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
