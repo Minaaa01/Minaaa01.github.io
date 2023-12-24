@@ -2,7 +2,7 @@
 layout: page
 title: Eye Retina Diseases Prediction
 description: Automatic detection of fundus diseases in retinal photographs using deep neural networks.
-img:
+img: assets/img/Picture1.jpg
 importance: 1
 category: College Projects
 ---
