@@ -2,8 +2,8 @@
 layout: page
 title: Adaline Learning Algorithm Using MSE
 description: Single layer neural networks to classify a stream of input data to one of a set of predefined classes
-img:
-importance: 1
+img: assets/img/Picture3.jpg
+importance: 3
 category: College Projects
 ---
 **Context**
