@@ -8,10 +8,6 @@ profile:
   align: right
   image: Mee.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Cairo, Egypt</p>
-    <p>01202146628</p>
-    <p>minatawfik49gmail.com</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,8 +15,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello and welcome to my humble Portfolio
+My name is Mina Tawfik and i am passionate about data analysis , Problem solving and building differents dasboards and charts , I have completed to many courses that taking different topict about data analysis like statistics ,Excels, Python ,SQL and database.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am based out of Cairo, Egypt and in my free time, I like to watch movies and anime and explore different music genres over a cup of tea. If you are interested in having a conversation about almost anything, feel free to ping me. Thank you!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* **Education**
+  Fresh Computer Sceince Graduate From Ain Shams University
+
+* **Core Competencies**
+  
+  1. Languages: Python and SQL
+  2. Tools : MS Excel, Tableau ,power Bi and MS PowerPoint
+     
+* **Certificates**
