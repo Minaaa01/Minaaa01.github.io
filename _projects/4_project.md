@@ -2,8 +2,8 @@
 layout: page
 title: Arabic Tweets Classification
 description: Classify Arabic tweets
-img:
-importance: 1
+img: assets/img/Picture3.jpg
+importance: 5
 category: College Projects
 ---
 
