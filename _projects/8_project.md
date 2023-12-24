@@ -2,7 +2,7 @@
 layout: page
 title: Movie Industry Analysis
 description: A data Analysis project about Movie industry
-img:
+img: movies.jpg
 importance: 6
 category: Personal Projects
 ---
