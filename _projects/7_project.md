@@ -3,7 +3,7 @@ layout: page
 title: Customer Churn Analysis
 description: Analyzing behavior to retain customers 
 img:
-importance: 1
+importance: 5
 category: Personal Projects
 ---
 
