@@ -7,6 +7,7 @@ first_name: Mina
 middle_name: T.
 last_name: Daniel
 email: minatawfik49@gmail.com
+description: Hello and welcome to my humble Portfolio.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
