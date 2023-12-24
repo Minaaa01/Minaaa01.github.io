@@ -16,9 +16,10 @@ social: false  # includes social icons at the bottom of the page
 
 Hello and welcome to my humble Portfolio.
 
-My name is Mina Tawfik and i am passionate about data analysis , Problem solving and building differents dasboards and charts ,and  
+My name is Mina Tawfik and i am passionate about data analysis , Problem solving and building differents dasboards and charts ,  
 I have completed to many courses that taking different topics about data analysis like statistics ,Excels, Python ,SQL and database.
 
+I also like to work on various projects and business problems of different industries, You can find all my projects [Here](https://minaaa01.github.io/projects/).
 
 I am based out of Cairo, Egypt and in my free time, I like to watch movies and anime and explore different music genres over a cup of tea. 
 If you are interested in having a conversation about almost anything, feel free to ping me.
