@@ -2,8 +2,8 @@
 layout: page
 title: Single Layer Perceptron
 description: Single Layer Perceptron on Penguins Dataset
-img:
-importance: 1
+img: assets/img/Picture3.jpg
+importance: 2
 category: College Projects
 ---
 **Context**
