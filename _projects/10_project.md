@@ -3,7 +3,7 @@ layout: page
 title: Road Accident Analysis
 description: A data Analysis project on Road accidents in UK, 2021 - 2022 Using Microsoft Excel
 img:
-importance: 1
+importance: 2
 category: Personal Projects
 ---
 * The data has been sourced from [Here](https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view)
