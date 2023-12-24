@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Movie-Industry-Analysis
+title: Movie Industry Analysis
 description: A data Analysis project about Movie industry
 img:
 importance: 6
