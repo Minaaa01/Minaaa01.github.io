@@ -2,7 +2,7 @@
 layout: page
 title: Covid 19 Data Analysis Using SQL
 description: A data Analysis project on COVID-19 Using SQL and Tableau
-img: covid.jpg
+img: assets/img/covid.jpg
 redirect:
 importance: 3
 category: Personal Projects
