@@ -3,7 +3,7 @@ layout: page
 title: Nashville Housing Analysis
 description: A data Cleaning project on Nashville Housing Using SQL
 img:
-importance: 1
+importance: 4
 category: Personal Projects
 ---
 # Data Cleaning In SQL
