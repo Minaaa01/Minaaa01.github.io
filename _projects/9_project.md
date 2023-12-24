@@ -2,7 +2,7 @@
 layout: page
 title: IBM Data Analyst Capstone Project
 description: Final Project for IBM Data Analyst Professional Certificate
-img:
+img: dev-survey-2021.4452c2ef.png
 importance: 1
 category: Personal Projects
 ---
