@@ -2,8 +2,8 @@
 layout: page
 title: Back Propagation Learning Algorithm
 description: Multi-layer neural networks
-img:
-importance: 1
+img: assets/img/Picture3.jpg
+importance: 4
 category: College Projects
 ---
 
