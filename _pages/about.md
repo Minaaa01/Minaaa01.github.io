@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 Hello and welcome to my humble Portfolio.
 
 My name is Mina Tawfik and i am passionate about data analysis , Problem solving and building differents dasboards and charts ,  
-I have completed to many courses that taking different topics about data analysis like statistics ,Excels, Python ,SQL and database.
+I have completed to many courses that taking different topics about data analysis like statistics ,Excels, Python , SQL and database.
 
 I also like to work on various projects and business problems of different industries, You can find all my projects [Here](https://minaaa01.github.io/projects/).
 
@@ -26,12 +26,12 @@ If you are interested in having a conversation about almost anything, feel free 
 
 ## **Education**
 
-  Fresh Computer Sceince Graduate From Ain Shams University (2019 - 2023 )
+  Fresh Computer Sceince Graduate From Ain Shams University ( 2019 - 2023 )
   
 ## **Core Competencies**
   
-  1. Languages: Python and SQL
-  2. Tools : MS Excel, Tableau ,power Bi and MS PowerPoint
+  1. **Languages**: Python and SQL
+  2. **Tools** : MS Excel, Tableau ,power Bi and MS PowerPoint
      
 ## **Certificates**
   1. [Data Analysis Challenger Track](https://drive.google.com/file/d/1heOV-pCJzIKQCG3vdO6uqV9QPWzoJgxc/view)
