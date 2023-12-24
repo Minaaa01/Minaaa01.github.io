@@ -10,7 +10,7 @@ email: minatawfik49@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hello and Wellcome To My Humble Portfolio.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧑🏻‍💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Minaaa01.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -61,7 +61,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: Minaaa01
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
