@@ -29,6 +29,8 @@ If you are interested in having a conversation about almost anything, feel free 
   * Fresh Computer Sceince Graduate From Ain Shams University ( 2019 - 2023 )
   * **IBM**, Data Analysis online non-credit Professional Certificate
      * Understand the core principles of data analysis and data analysis tools, including Excel, SQL, Relational Databases, Python, Jupyter Notebooks, and Power Bi, gaining practical experience with data manipulation, data analysis, and data visualization
+
+  
 ## **Core Competencies**
   
   1. **Languages**: Python and SQL
