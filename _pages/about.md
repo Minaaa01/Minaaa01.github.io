@@ -26,7 +26,9 @@ If you are interested in having a conversation about almost anything, feel free 
 
 ## **Education**
 
-  Fresh Computer Sceince Graduate From Ain Shams University ( 2019 - 2023 )
+  * Fresh Computer Sceince Graduate From Ain Shams University ( 2019 - 2023 )
+  * **IBM** , Data Analysis online non-credit Professional Certificate
+     > Use SQL, Python, Excel, Tableau, and Statistics to uncover insights, create reports and dashboards.
   
 ## **Core Competencies**
   
